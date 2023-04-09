@@ -1,0 +1,23 @@
+#valorant{
+    width: 25%;
+    border-radius: 20px;
+    border:15px solid red
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+#uno,#dos{
+    color:white;
+    background-color: black;
+    width: 25%;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-color: red;
+    margin-top: 50px;
+    cursor: pointer;
+}
+#div{
+    text-align: center;
+}
+
